@@ -1,8 +1,9 @@
-![](./screen-caps/01Homepage.jpg)
-![](./screen-caps/02LiveLecture.jpg)
-![](./screen-caps/03Books.jpg)
-![](./screen-caps/04Whiteboard.jpg)
-![](./screen-caps/05Quiz.jpg)
+![github-small](./screen-caps/01Homepage.jpg)
+![github-small](./screen-caps/02LiveLecture.jpg)
+![github-small](./screen-caps/03Books.jpg)
+![github-small](./screen-caps/04Whiteboard.jpg)
+![github-small](./screen-caps/05Quiz.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
