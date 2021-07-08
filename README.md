@@ -1,4 +1,4 @@
-![](./screen-caps/01Homepage.jpg)
+![](./screen-caps/01HomePage.jpg)
 ![](./screen-caps/02LiveLecture.jpg)
 ![](./screen-caps/03Books.jpg)
 ![](./screen-caps/04Whiteboard.jpg)
